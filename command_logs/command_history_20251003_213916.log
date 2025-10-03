@@ -1,0 +1,14 @@
+[2025-10-03 21:39:16] [/workspaces/F25] source .devcontainer/shell.sh
+[2025-10-03 21:41:41] [/workspaces/F25] ls -a /
+[2025-10-03 21:42:15] [/workspaces/F25] ls --all /
+[2025-10-03 21:43:05] [/workspaces/F25] man ls
+[2025-10-03 21:44:15] [/workspaces/F25] man cp
+[2025-10-03 21:44:54] [/workspaces/F25] cp -i README.MD README_COPY.MD
+[2025-10-03 21:45:07] [/workspaces/F25] cp -i README.md README_COPY.MD
+[2025-10-03 21:45:21] [/workspaces/F25] apropos password
+[2025-10-03 21:45:49] [/workspaces/F25] apropos compress
+[2025-10-03 21:46:42] [/workspaces/F25] echo $PATH
+[2025-10-03 21:46:54] [/workspaces/F25] echo $HOME
+[2025-10-03 21:47:15] [/workspaces/F25] date
+[2025-10-03 21:47:20] [/workspaces/F25] date
+[2025-10-03 21:48:01] [/workspaces/F25] date
